@@ -1,0 +1,634 @@
+{
+  "_schema_version": "2.0",
+  "_notes": "Curated 20-point Berkeley/BUSD educational history timeline. App uses year/title/description/category/topics/image_url/image_caption/image_source/source_citation/source_url and ignores extra metadata fields.",
+  "events": [
+    {
+      "id": "1850-california-unfreedom",
+      "year": 1850,
+      "start_date": "1850/4/22",
+      "end_date": "1850/4/22",
+      "title": "California Sanctions Indigenous Unfreedom",
+      "headline": "California Sanctions Indigenous Unfreedom",
+      "description": "Four months before statehood, California passed the Act for the Government and Protection of Indians. The law allowed white settlers to obtain custody of Native children through local justices and enabled forced labor through vagrancy enforcement and other coercive provisions. It matters for this timeline because Berkeley\u2019s schools developed inside a state that paired formal freedom with racialized unfreedom, family separation, and unequal citizenship.",
+      "text": "Four months before statehood, California passed the Act for the Government and Protection of Indians. The law allowed white settlers to obtain custody of Native children through local justices and enabled forced labor through vagrancy enforcement and other coercive provisions. It matters for this timeline because Berkeley\u2019s schools developed inside a state that paired formal freedom with racialized unfreedom, family separation, and unequal citizenship.",
+      "category": "California",
+      "topics": [
+        "Law",
+        "Unfreedom",
+        "Foundations"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "California Courts resource on early California Indian law",
+      "source_url": "https://courts.ca.gov/sites/default/files/courts/default/2024-08/module1-resources.pdf",
+      "media": "https://courts.ca.gov/sites/default/files/courts/default/2024-08/module1-resources.pdf",
+      "media_credit": "California Courts. (2024). Early California laws and policies related to California Indians. https://courts.ca.gov/sites/default/files/courts/default/2024-08/module1-resources.pdf",
+      "media_caption": "Reference file summarizing the 1850 Act for the Government and Protection of Indians and its coercive provisions.",
+      "sources": [
+        {
+          "citation": "California Courts. (2024). Early California laws and policies related to California Indians. https://courts.ca.gov/sites/default/files/courts/default/2024-08/module1-resources.pdf",
+          "url": "https://courts.ca.gov/sites/default/files/courts/default/2024-08/module1-resources.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1855-school-funding-exclusion",
+      "year": 1855,
+      "start_date": "1855/1/1",
+      "end_date": "1855/12/31",
+      "title": "California Funds White Schooling, Not Black and Chinese Children",
+      "headline": "California Funds White Schooling, Not Black and Chinese Children",
+      "description": "An 1855 state law calculated school funding by counting white children and withheld state support from schools that taught Black and Chinese students. Black Californians still paid taxes into the public system while their children could be excluded from it. This matters because educational inequality in California was built not only through custom, but through public finance.",
+      "text": "An 1855 state law calculated school funding by counting white children and withheld state support from schools that taught Black and Chinese students. Black Californians still paid taxes into the public system while their children could be excluded from it. This matters because educational inequality in California was built not only through custom, but through public finance.",
+      "category": "California",
+      "topics": [
+        "Law",
+        "School Access",
+        "Funding"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "California Department of Justice chapter on separate and unequal education",
+      "source_url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_credit": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_caption": "Reference chapter documenting California laws that denied Black children equal access to publicly funded education.",
+      "sources": [
+        {
+          "citation": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+          "url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1864-1866-separate-school-regime",
+      "year": 1864,
+      "start_date": "1864/1/1",
+      "end_date": "1866/12/31",
+      "title": "California Builds a Separate-School Regime",
+      "headline": "California Builds a Separate-School Regime",
+      "description": "State law first allowed separate schools for Black children when enough families petitioned for one, then in 1866 let white parents block Black children from white schools by written objection. In places with too few Black students, districts could effectively refuse schooling altogether. These laws made educational access contingent on white approval rather than equal right.",
+      "text": "State law first allowed separate schools for Black children when enough families petitioned for one, then in 1866 let white parents block Black children from white schools by written objection. In places with too few Black students, districts could effectively refuse schooling altogether. These laws made educational access contingent on white approval rather than equal right.",
+      "category": "California",
+      "topics": [
+        "Law",
+        "Segregation",
+        "School Access"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "California Department of Justice chapter on separate and unequal education",
+      "source_url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_credit": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_caption": "Reference chapter tracing the state laws that formalized separate schooling and white-parent veto power.",
+      "sources": [
+        {
+          "citation": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+          "url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1874-ward-v-flood",
+      "year": 1874,
+      "start_date": "1874/1/1",
+      "end_date": "1874/12/31",
+      "title": "Ward v. Flood Normalizes Separate Schooling in California",
+      "headline": "Ward v. Flood Normalizes Separate Schooling in California",
+      "description": "In Ward v. Flood, the California Supreme Court upheld segregated schooling while also saying Black children could attend white schools if no separate school existed. The ruling gave California its own version of separate-but-equal before Plessy v. Ferguson. It matters because later fights in Berkeley unfolded against a long state tradition of treating segregation as legally manageable rather than morally intolerable.",
+      "text": "In Ward v. Flood, the California Supreme Court upheld segregated schooling while also saying Black children could attend white schools if no separate school existed. The ruling gave California its own version of separate-but-equal before Plessy v. Ferguson. It matters because later fights in Berkeley unfolded against a long state tradition of treating segregation as legally manageable rather than morally intolerable.",
+      "category": "California",
+      "topics": [
+        "Law",
+        "Segregation",
+        "Doctrine"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "California Department of Justice chapter on separate and unequal education",
+      "source_url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_credit": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_caption": "Reference chapter summarizing Ward v. Flood and California\u2019s separate-school doctrine.",
+      "sources": [
+        {
+          "citation": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+          "url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf"
+        },
+        {
+          "citation": "Burkhardt v. Lofton. (n.d.). Justia. https://law.justia.com/cases/california/court-of-appeal/2d/63/230.html",
+          "url": "https://law.justia.com/cases/california/court-of-appeal/2d/63/230.html"
+        }
+      ]
+    },
+    {
+      "id": "1880-1890-legal-opening-without-equality",
+      "year": 1880,
+      "start_date": "1880/1/1",
+      "end_date": "1890/12/31",
+      "title": "Formal School Segregation Ends, Structural Inequality Remains",
+      "headline": "Formal School Segregation Ends, Structural Inequality Remains",
+      "description": "An 1880 California law opened public schools to all children, and in 1890 Wysinger v. Crookshank confirmed that a Black student could attend his local public school under that law. Yet legal access did not undo neighborhood exclusion, unequal resources, or hostile gatekeeping. This turning point matters because the Berkeley story is not simply one of exclusion ending, but of inequality changing form.",
+      "text": "An 1880 California law opened public schools to all children, and in 1890 Wysinger v. Crookshank confirmed that a Black student could attend his local public school under that law. Yet legal access did not undo neighborhood exclusion, unequal resources, or hostile gatekeeping. This turning point matters because the Berkeley story is not simply one of exclusion ending, but of inequality changing form.",
+      "category": "California",
+      "topics": [
+        "Law",
+        "School Access",
+        "Inequality"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "California Department of Justice chapter on separate and unequal education",
+      "source_url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_credit": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+      "media_caption": "Reference chapter documenting the legal end of formal school segregation for Black students in California.",
+      "sources": [
+        {
+          "citation": "California Department of Justice. (2023). Chapter 6: Separate and unequal education. https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf",
+          "url": "https://oag.ca.gov/system/files/media/ch6-ca-reparations.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1916-berkeley-zoning",
+      "year": 1916,
+      "start_date": "1916/1/1",
+      "end_date": "1916/12/31",
+      "title": "Berkeley Creates Single-Family Zoning as a Racial Barrier",
+      "headline": "Berkeley Creates Single-Family Zoning as a Racial Barrier",
+      "description": "Berkeley became the first city in the nation to adopt single-family residential zoning, and later city documents explicitly tie that system to racial exclusion. The policy worked alongside racially restrictive deeds and covenants to keep Black and other nonwhite families out of much of East Berkeley. It matters because school opportunity followed residential lines, so housing exclusion became educational exclusion by another route.",
+      "text": "Berkeley became the first city in the nation to adopt single-family residential zoning, and later city documents explicitly tie that system to racial exclusion. The policy worked alongside racially restrictive deeds and covenants to keep Black and other nonwhite families out of much of East Berkeley. It matters because school opportunity followed residential lines, so housing exclusion became educational exclusion by another route.",
+      "category": "Berkeley",
+      "topics": [
+        "Housing",
+        "Zoning",
+        "Educational Access"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "City of Berkeley resolution on exclusionary zoning",
+      "source_url": "https://berkeleyca.gov/sites/default/files/2022-02/2021-02-23%20Item%2029%20Resolution%20to%20End%20Exclusionary.pdf",
+      "media": "https://berkeleyca.gov/sites/default/files/2022-02/2021-02-23%20Item%2029%20Resolution%20to%20End%20Exclusionary.pdf",
+      "media_credit": "City of Berkeley. (2021). Resolution to end exclusionary zoning in Berkeley. https://berkeleyca.gov/sites/default/files/2022-02/2021-02-23%20Item%2029%20Resolution%20to%20End%20Exclusionary.pdf",
+      "media_caption": "City resolution summarizing Berkeley\u2019s 1916 single-family zoning system and its role in racial exclusion.",
+      "sources": [
+        {
+          "citation": "City of Berkeley. (2021). Resolution to end exclusionary zoning in Berkeley. https://berkeleyca.gov/sites/default/files/2022-02/2021-02-23%20Item%2029%20Resolution%20to%20End%20Exclusionary.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/2022-02/2021-02-23%20Item%2029%20Resolution%20to%20End%20Exclusionary.pdf"
+        },
+        {
+          "citation": "Othering & Belonging Institute. (2019). Roots, race, and place. https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf",
+          "url": "https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1942-1945-wartime-migration-segregated-housing",
+      "year": 1942,
+      "start_date": "1942/1/1",
+      "end_date": "1945/12/31",
+      "title": "Wartime Migration Grows Black Berkeley Under Segregated Housing Conditions",
+      "headline": "Wartime Migration Grows Black Berkeley Under Segregated Housing Conditions",
+      "description": "World War II and its aftermath expanded Berkeley\u2019s Black and working-class population, but housing discrimination sharply limited where many families could live. City and regional histories describe postwar Berkeley as shaped by GI-era benefits, suburban out-migration, and intensifying struggles over fair housing and school segregation. This mattered because where families were allowed to live shaped the schools their children could access and the resources those schools received.",
+      "text": "World War II and its aftermath expanded Berkeley\u2019s Black and working-class population, but housing discrimination sharply limited where many families could live. City and regional histories describe postwar Berkeley as shaped by GI-era benefits, suburban out-migration, and intensifying struggles over fair housing and school segregation. This mattered because where families were allowed to live shaped the schools their children could access and the resources those schools received.",
+      "category": "Berkeley",
+      "topics": [
+        "Housing",
+        "Migration",
+        "Educational Access"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "City of Berkeley historical staff report",
+      "source_url": "https://berkeleyca.gov/sites/default/files/documents/2023-09-07_LPC_Item%207_2603-2611%20San%20Pablo_Staff%20Report%20and%20Attachments.pdf",
+      "media": "https://berkeleyca.gov/sites/default/files/documents/2023-09-07_LPC_Item%207_2603-2611%20San%20Pablo_Staff%20Report%20and%20Attachments.pdf",
+      "media_credit": "City of Berkeley. (2023). 2603\u20132611 San Pablo Avenue staff report and attachments. https://berkeleyca.gov/sites/default/files/documents/2023-09-07_LPC_Item%207_2603-2611%20San%20Pablo_Staff%20Report%20and%20Attachments.pdf",
+      "media_caption": "City historical report describing postwar Berkeley demographics, GI-era changes, and ensuing struggles over fair housing and school segregation.",
+      "sources": [
+        {
+          "citation": "City of Berkeley. (2023). 2603\u20132611 San Pablo Avenue staff report and attachments. https://berkeleyca.gov/sites/default/files/documents/2023-09-07_LPC_Item%207_2603-2611%20San%20Pablo_Staff%20Report%20and%20Attachments.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2023-09-07_LPC_Item%207_2603-2611%20San%20Pablo_Staff%20Report%20and%20Attachments.pdf"
+        },
+        {
+          "citation": "Othering & Belonging Institute. (2019). Roots, race, and place. https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf",
+          "url": "https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1954-brown-v-board",
+      "year": 1954,
+      "start_date": "1954/5/17",
+      "end_date": "1954/5/17",
+      "title": "Brown v. Board Redefines the Constitutional Standard",
+      "headline": "Brown v. Board Redefines the Constitutional Standard",
+      "description": "On May 17, 1954, the U.S. Supreme Court ruled that separate educational facilities are inherently unequal. Brown did not automatically desegregate Berkeley, but it changed the legal and moral landscape in which local activists pressed BUSD to act. It matters here because Berkeley\u2019s later reforms were part of a national struggle over what equal education should mean in practice.",
+      "text": "On May 17, 1954, the U.S. Supreme Court ruled that separate educational facilities are inherently unequal. Brown did not automatically desegregate Berkeley, but it changed the legal and moral landscape in which local activists pressed BUSD to act. It matters here because Berkeley\u2019s later reforms were part of a national struggle over what equal education should mean in practice.",
+      "category": "National",
+      "topics": [
+        "Law",
+        "Desegregation",
+        "Education"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "National Archives Brown v. Board milestone page",
+      "source_url": "https://www.archives.gov/milestone-documents/brown-v-board-of-education",
+      "media": "https://www.archives.gov/milestone-documents/brown-v-board-of-education",
+      "media_credit": "National Archives. (2024). Brown v. Board of Education (1954). https://www.archives.gov/milestone-documents/brown-v-board-of-education",
+      "media_caption": "National Archives page for the Brown v. Board decision.",
+      "sources": [
+        {
+          "citation": "National Archives. (2024). Brown v. Board of Education (1954). https://www.archives.gov/milestone-documents/brown-v-board-of-education",
+          "url": "https://www.archives.gov/milestone-documents/brown-v-board-of-education"
+        }
+      ]
+    },
+    {
+      "id": "1957-naacp-pressure",
+      "year": 1957,
+      "start_date": "1957/1/1",
+      "end_date": "1957/12/31",
+      "title": "Berkeley NAACP Pushes School Segregation onto the District Agenda",
+      "headline": "Berkeley NAACP Pushes School Segregation onto the District Agenda",
+      "description": "In 1957, Berkeley\u2019s NAACP chapter proposed a citizens\u2019 advisory committee to study segregation in the schools. That intervention helped move school inequality from private grievance to public district business. It matters because formal desegregation in Berkeley began not as administrative generosity, but under organized community pressure.",
+      "text": "In 1957, Berkeley\u2019s NAACP chapter proposed a citizens\u2019 advisory committee to study segregation in the schools. That intervention helped move school inequality from private grievance to public district business. It matters because formal desegregation in Berkeley began not as administrative generosity, but under organized community pressure.",
+      "category": "BUSD",
+      "topics": [
+        "Organizing",
+        "Desegregation",
+        "Community Pressure"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "U.S. Civil Rights Commission report on Berkeley desegregation",
+      "source_url": "https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media": "https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media_credit": "U.S. Commission on Civil Rights. (1977). School desegregation in Berkeley, California. https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media_caption": "Federal report recounting Berkeley NAACP advocacy and the district\u2019s desegregation process.",
+      "sources": [
+        {
+          "citation": "U.S. Commission on Civil Rights. (1977). School desegregation in Berkeley, California. https://www.usccr.gov/files/historical/1977/77-033.pdf",
+          "url": "https://www.usccr.gov/files/historical/1977/77-033.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1958-alfred-simmons",
+      "year": 1958,
+      "start_date": "1958/1/1",
+      "end_date": "1958/12/31",
+      "title": "The Alfred Simmons Case Exposes Berkeley Housing Discrimination",
+      "headline": "The Alfred Simmons Case Exposes Berkeley Housing Discrimination",
+      "description": "In 1958, Alfred Simmons, an African American teacher, rented a house in Berkeley\u2019s Elmwood neighborhood and triggered intervention by the police, FBI, and Federal Housing Administration against the white owner. The episode showed that even a Black educator could face punishment through the housing system for crossing racial lines. It matters because residential exclusion helped preserve unequal access to schools long after formal school segregation was under challenge.",
+      "text": "In 1958, Alfred Simmons, an African American teacher, rented a house in Berkeley\u2019s Elmwood neighborhood and triggered intervention by the police, FBI, and Federal Housing Administration against the white owner. The episode showed that even a Black educator could face punishment through the housing system for crossing racial lines. It matters because residential exclusion helped preserve unequal access to schools long after formal school segregation was under challenge.",
+      "category": "Berkeley",
+      "topics": [
+        "Housing",
+        "Segregation",
+        "Teachers"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "Othering and Belonging Institute report on Roots, Race, and Place",
+      "source_url": "https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf",
+      "media": "https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf",
+      "media_credit": "Othering & Belonging Institute. (2019). Roots, race, and place. https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf",
+      "media_caption": "Report summarizing the 1958 Alfred Simmons housing discrimination episode in Berkeley.",
+      "sources": [
+        {
+          "citation": "Othering & Belonging Institute. (2019). Roots, race, and place. https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf",
+          "url": "https://belonging.berkeley.edu/sites/default/files/haasinstitute_rootsraceplace_oct2019_publish.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1963-1967-rumford-prop14-reitman",
+      "year": 1963,
+      "start_date": "1963/1/1",
+      "end_date": "1967/12/31",
+      "title": "Fair Housing Reform Meets Backlash",
+      "headline": "Fair Housing Reform Meets Backlash",
+      "description": "California passed the Rumford Fair Housing Act in 1963 to bar discrimination in the sale and rental of housing, but voters approved Proposition 14 the next year to protect a landlord\u2019s right to discriminate. In 1967, the U.S. Supreme Court struck Proposition 14 down in Reitman v. Mulkey. This sequence matters because the fight over housing access shaped who could live in Berkeley, build wealth there, and send children to its public schools.",
+      "text": "California passed the Rumford Fair Housing Act in 1963 to bar discrimination in the sale and rental of housing, but voters approved Proposition 14 the next year to protect a landlord\u2019s right to discriminate. In 1967, the U.S. Supreme Court struck Proposition 14 down in Reitman v. Mulkey. This sequence matters because the fight over housing access shaped who could live in Berkeley, build wealth there, and send children to its public schools.",
+      "category": "California",
+      "topics": [
+        "Housing",
+        "Law",
+        "Backlash"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "California Assembly Judiciary background paper on FEHA and Rumford",
+      "source_url": "https://ajud.assembly.ca.gov/sites/ajud.assembly.ca.gov/files/reports/2010%20FEHA%20background%20paper.pdf",
+      "media": "https://ajud.assembly.ca.gov/sites/ajud.assembly.ca.gov/files/reports/2010%20FEHA%20background%20paper.pdf",
+      "media_credit": "California State Assembly Committee on Judiciary. (2010). Fair employment and housing 50 years after FEHA. https://ajud.assembly.ca.gov/sites/ajud.assembly.ca.gov/files/reports/2010%20FEHA%20background%20paper.pdf",
+      "media_caption": "Background paper tracing the Rumford Act, Proposition 14, and the legal restoration of fair-housing protections.",
+      "sources": [
+        {
+          "citation": "California State Assembly Committee on Judiciary. (2010). Fair employment and housing 50 years after FEHA. https://ajud.assembly.ca.gov/sites/ajud.assembly.ca.gov/files/reports/2010%20FEHA%20background%20paper.pdf",
+          "url": "https://ajud.assembly.ca.gov/sites/ajud.assembly.ca.gov/files/reports/2010%20FEHA%20background%20paper.pdf"
+        },
+        {
+          "citation": "Online Archive of California. (n.d.). No on Proposition 14: California Fair Housing Initiative collection. https://oac.cdlib.org/findaid/ark:/13030/kt0b69q1bw/",
+          "url": "https://oac.cdlib.org/findaid/ark:/13030/kt0b69q1bw/"
+        }
+      ]
+    },
+    {
+      "id": "1964-junior-high-desegregation",
+      "year": 1964,
+      "start_date": "1964/1/1",
+      "end_date": "1964/12/31",
+      "title": "Berkeley Desegregates Its Junior High Schools",
+      "headline": "Berkeley Desegregates Its Junior High Schools",
+      "description": "In 1964, Berkeley implemented junior high desegregation after earlier school board votes and organizing battles over the issue. The district redrew attendance patterns so the remaining junior highs would enroll more racially and socioeconomically mixed student bodies. This mattered because Berkeley was testing whether integration would be pursued as district policy rather than left to residential sorting.",
+      "text": "In 1964, Berkeley implemented junior high desegregation after earlier school board votes and organizing battles over the issue. The district redrew attendance patterns so the remaining junior highs would enroll more racially and socioeconomically mixed student bodies. This mattered because Berkeley was testing whether integration would be pursued as district policy rather than left to residential sorting.",
+      "category": "BUSD",
+      "topics": [
+        "Desegregation",
+        "District Policy",
+        "Integration"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "U.S. Civil Rights Commission report on Berkeley desegregation",
+      "source_url": "https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media": "https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media_credit": "U.S. Commission on Civil Rights. (1977). School desegregation in Berkeley, California. https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media_caption": "Federal report detailing Berkeley\u2019s junior high desegregation plan and implementation.",
+      "sources": [
+        {
+          "citation": "U.S. Commission on Civil Rights. (1977). School desegregation in Berkeley, California. https://www.usccr.gov/files/historical/1977/77-033.pdf",
+          "url": "https://www.usccr.gov/files/historical/1977/77-033.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1968-elementary-desegregation-teacher-recruitment",
+      "year": 1968,
+      "start_date": "1968/1/1",
+      "end_date": "1968/12/31",
+      "title": "Berkeley Extends Desegregation to Elementary Schools and Teacher Hiring",
+      "headline": "Berkeley Extends Desegregation to Elementary Schools and Teacher Hiring",
+      "description": "In 1968, Berkeley implemented elementary school desegregation through districtwide busing and zone design, making every child part of the plan at some point in their school career. The district also adopted affirmative-action hiring goals and expanded recruitment of Black teachers while requiring staff training in human relations and multicultural education. It matters because Berkeley linked student assignment, curriculum, and staffing in one of the nation\u2019s most watched local desegregation efforts.",
+      "text": "In 1968, Berkeley implemented elementary school desegregation through districtwide busing and zone design, making every child part of the plan at some point in their school career. The district also adopted affirmative-action hiring goals and expanded recruitment of Black teachers while requiring staff training in human relations and multicultural education. It matters because Berkeley linked student assignment, curriculum, and staffing in one of the nation\u2019s most watched local desegregation efforts.",
+      "category": "BUSD",
+      "topics": [
+        "Desegregation",
+        "Teachers",
+        "Curriculum"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "U.S. Civil Rights Commission report on Berkeley desegregation",
+      "source_url": "https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media": "https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media_credit": "U.S. Commission on Civil Rights. (1977). School desegregation in Berkeley, California. https://www.usccr.gov/files/historical/1977/77-033.pdf",
+      "media_caption": "Federal report documenting Berkeley\u2019s elementary desegregation plan, busing structure, and minority teacher recruitment.",
+      "sources": [
+        {
+          "citation": "U.S. Commission on Civil Rights. (1977). School desegregation in Berkeley, California. https://www.usccr.gov/files/historical/1977/77-033.pdf",
+          "url": "https://www.usccr.gov/files/historical/1977/77-033.pdf"
+        },
+        {
+          "citation": "City of Berkeley. (2019). Update on Berkeley\u2019s 2020 Vision. https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1968-1971-black-panther-berkeley",
+      "year": 1968,
+      "start_date": "1968/1/1",
+      "end_date": "1971/12/31",
+      "title": "Black Panther Programs in Berkeley Link Education, Health, and Survival",
+      "headline": "Black Panther Programs in Berkeley Link Education, Health, and Survival",
+      "description": "Berkeley sites of the Black Panther Party hosted political education classes, youth programming, and the Free Breakfast for School Children program, while related health work expanded access to care in Black communities. The Berkeley Public Library notes that many participants were Berkeley High and UC Berkeley students as well as community members. This mattered because Black families were not waiting for institutions alone to solve educational inequality; they were building support systems around children themselves.",
+      "text": "Berkeley sites of the Black Panther Party hosted political education classes, youth programming, and the Free Breakfast for School Children program, while related health work expanded access to care in Black communities. The Berkeley Public Library notes that many participants were Berkeley High and UC Berkeley students as well as community members. This mattered because Black families were not waiting for institutions alone to solve educational inequality; they were building support systems around children themselves.",
+      "category": "Berkeley",
+      "topics": [
+        "Community Organizing",
+        "Youth Programs",
+        "Educational Repair"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "Berkeley Public Library resource on the Black Panther Party in Berkeley",
+      "source_url": "https://www.berkeleypubliclibrary.org/black-panther-party-berkeley",
+      "media": "https://www.berkeleypubliclibrary.org/black-panther-party-berkeley",
+      "media_credit": "Berkeley Public Library. (2021). The Black Panther Party in Berkeley. https://www.berkeleypubliclibrary.org/black-panther-party-berkeley",
+      "media_caption": "Berkeley Public Library resource describing local Panther breakfast, education, and community programs.",
+      "sources": [
+        {
+          "citation": "Berkeley Public Library. (2021). The Black Panther Party in Berkeley. https://www.berkeleypubliclibrary.org/black-panther-party-berkeley",
+          "url": "https://www.berkeleypubliclibrary.org/black-panther-party-berkeley"
+        }
+      ]
+    },
+    {
+      "id": "1970-1973-black-house-besp",
+      "year": 1970,
+      "start_date": "1970/9/1",
+      "end_date": "1973/6/13",
+      "title": "Black House Experiments with Black-Centered Schooling",
+      "headline": "Black House Experiments with Black-Centered Schooling",
+      "description": "Black House opened in fall 1970 and entered the Berkeley Experimental Schools Project the next year as an all-Black, Black-staffed educational space designed to connect academic recovery with Black history, pride, and community. Its curriculum paired basic skills with Black philosophy, literature, law, art, and nation-building. It matters because the program showed one local answer to a problem integration alone had not solved: how to make school meaningful and affirming for Black students.",
+      "text": "Black House opened in fall 1970 and entered the Berkeley Experimental Schools Project the next year as an all-Black, Black-staffed educational space designed to connect academic recovery with Black history, pride, and community. Its curriculum paired basic skills with Black philosophy, literature, law, art, and nation-building. It matters because the program showed one local answer to a problem integration alone had not solved: how to make school meaningful and affirming for Black students.",
+      "category": "BUSD",
+      "topics": [
+        "Educational Repair",
+        "Alternative Schooling",
+        "Black Studies"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "Berkeley Revolution Black House extract",
+      "source_url": "https://revolution.berkeley.edu/assets/BlackHouse.Extract.BESP_.pdf",
+      "media": "https://revolution.berkeley.edu/assets/BlackHouse.Extract.BESP_.pdf",
+      "media_credit": "The Berkeley Revolution. (n.d.). Black House extract. https://revolution.berkeley.edu/assets/BlackHouse.Extract.BESP_.pdf",
+      "media_caption": "Historical extract on Black House and its role within Berkeley Experimental Schools Project.",
+      "sources": [
+        {
+          "citation": "The Berkeley Revolution. (n.d.). Black House extract. https://revolution.berkeley.edu/assets/BlackHouse.Extract.BESP_.pdf",
+          "url": "https://revolution.berkeley.edu/assets/BlackHouse.Extract.BESP_.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1970s-ashby-bart-displacement",
+      "year": 1970,
+      "start_date": "1970/1/1",
+      "end_date": "1979/12/31",
+      "title": "Ashby BART Construction Displaces South Berkeley",
+      "headline": "Ashby BART Construction Displaces South Berkeley",
+      "description": "Construction of the Ashby BART station in the 1970s took property through eminent domain in historically Black South Berkeley. Residents succeeded in preventing elevated tracks from dividing the neighborhood, but the project still caused major disruption and the loss of Black homes and businesses. It matters because school opportunity depends on neighborhood stability, and displacement weakened the community infrastructure around Black families and students.",
+      "text": "Construction of the Ashby BART station in the 1970s took property through eminent domain in historically Black South Berkeley. Residents succeeded in preventing elevated tracks from dividing the neighborhood, but the project still caused major disruption and the loss of Black homes and businesses. It matters because school opportunity depends on neighborhood stability, and displacement weakened the community infrastructure around Black families and students.",
+      "category": "Berkeley",
+      "topics": [
+        "Displacement",
+        "Housing",
+        "Community Stability"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "City of Berkeley report on grant funding and Equity for Black Berkeley work",
+      "source_url": "https://berkeleyca.gov/sites/default/files/documents/2024-06-25%20Item%2046%20Accepting%20grant%20funding.pdf",
+      "media": "https://berkeleyca.gov/sites/default/files/documents/2024-06-25%20Item%2046%20Accepting%20grant%20funding.pdf",
+      "media_credit": "City of Berkeley. (2024). Accepting grant funding. https://berkeleyca.gov/sites/default/files/documents/2024-06-25%20Item%2046%20Accepting%20grant%20funding.pdf",
+      "media_caption": "City report summarizing the impact of Ashby BART construction on South Berkeley\u2019s Black community.",
+      "sources": [
+        {
+          "citation": "City of Berkeley. (2024). Accepting grant funding. https://berkeleyca.gov/sites/default/files/documents/2024-06-25%20Item%2046%20Accepting%20grant%20funding.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2024-06-25%20Item%2046%20Accepting%20grant%20funding.pdf"
+        },
+        {
+          "citation": "City of Berkeley. (2024). Equity for Black Berkeley initiative referral. https://berkeleyca.gov/sites/default/files/documents/2024-11-19%20Item%2024%20Referral%20to%20City%20Manager%20%20Equity%20for%20Black%20Berkeley%20(E4BB)%20Initiative.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2024-11-19%20Item%2024%20Referral%20to%20City%20Manager%20%20Equity%20for%20Black%20Berkeley%20(E4BB)%20Initiative.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1994-school-colors",
+      "year": 1994,
+      "start_date": "1994/1/1",
+      "end_date": "1994/12/31",
+      "title": "School Colors Shows Integration Did Not End Inequality",
+      "headline": "School Colors Shows Integration Did Not End Inequality",
+      "description": "PBS Frontline\u2019s School Colors followed Berkeley High and brought national attention to racial tension and unequal student experience decades after formal desegregation. The 2020 Vision report later cited the film as a major marker in Berkeley\u2019s educational history. It matters because the documentary made visible what simple integration statistics could hide: students could share schools without sharing equal opportunity.",
+      "text": "PBS Frontline\u2019s School Colors followed Berkeley High and brought national attention to racial tension and unequal student experience decades after formal desegregation. The 2020 Vision report later cited the film as a major marker in Berkeley\u2019s educational history. It matters because the documentary made visible what simple integration statistics could hide: students could share schools without sharing equal opportunity.",
+      "category": "BUSD",
+      "topics": [
+        "Achievement Gaps",
+        "School Climate",
+        "Public Reckoning"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "PBS Frontline School Colors page",
+      "source_url": "https://www.pbs.org/wgbh/frontline/documentary/school-colors/",
+      "media": "https://www.pbs.org/wgbh/frontline/documentary/school-colors/",
+      "media_credit": "PBS Frontline. (n.d.). School Colors. https://www.pbs.org/wgbh/frontline/documentary/school-colors/",
+      "media_caption": "Documentary page for School Colors, a 1994 PBS Frontline film on race and education at Berkeley High School.",
+      "sources": [
+        {
+          "citation": "PBS Frontline. (n.d.). School Colors. https://www.pbs.org/wgbh/frontline/documentary/school-colors/",
+          "url": "https://www.pbs.org/wgbh/frontline/documentary/school-colors/"
+        },
+        {
+          "citation": "City of Berkeley. (2019). Update on Berkeley\u2019s 2020 Vision. https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf"
+        }
+      ]
+    },
+    {
+      "id": "1996-2002-diversity-project-united-in-action",
+      "year": 1996,
+      "start_date": "1996/1/1",
+      "end_date": "2002/12/31",
+      "title": "Post-School Colors Reform Builds a Community Equity Agenda",
+      "headline": "Post-School Colors Reform Builds a Community Equity Agenda",
+      "description": "From 1996 to 2002, the UC Berkeley Diversity Project studied racial achievement gaps at Berkeley High and recommended reforms, including supports such as the Parent Resource Center and later structural changes. In 2002, United in Action formed to push BUSD toward a total-community approach to racial equity. This period matters because Berkeley moved from documenting disparity to organizing cross-institutional responses to it.",
+      "text": "From 1996 to 2002, the UC Berkeley Diversity Project studied racial achievement gaps at Berkeley High and recommended reforms, including supports such as the Parent Resource Center and later structural changes. In 2002, United in Action formed to push BUSD toward a total-community approach to racial equity. This period matters because Berkeley moved from documenting disparity to organizing cross-institutional responses to it.",
+      "category": "BUSD",
+      "topics": [
+        "Reform",
+        "Achievement Gaps",
+        "Community Coalition"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "City of Berkeley 2020 Vision report",
+      "source_url": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+      "media": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+      "media_credit": "City of Berkeley. (2019). Update on Berkeley\u2019s 2020 Vision. https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+      "media_caption": "City report summarizing post-1994 reform efforts, the Diversity Project, and United in Action.",
+      "sources": [
+        {
+          "citation": "City of Berkeley. (2019). Update on Berkeley\u2019s 2020 Vision. https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2008-2019-2020-vision-equity-work",
+      "year": 2008,
+      "start_date": "2008/6/24",
+      "end_date": "2019/10/22",
+      "title": "Berkeley\u2019s 2020 Vision Institutionalizes Equity Work",
+      "headline": "Berkeley\u2019s 2020 Vision Institutionalizes Equity Work",
+      "description": "Formally established in 2008, Berkeley\u2019s 2020 Vision joined the city, BUSD, UC Berkeley, and Berkeley City College in a long-term campaign to close racial achievement gaps. By 2019, the initiative had become an official framework for tracking outcomes and aligning interventions, including newer BUSD work such as the African American Success Program pilot and targeted literacy and math supports. It matters because Berkeley increasingly treated educational equity as a systemwide responsibility rather than a school-only issue.",
+      "text": "Formally established in 2008, Berkeley\u2019s 2020 Vision joined the city, BUSD, UC Berkeley, and Berkeley City College in a long-term campaign to close racial achievement gaps. By 2019, the initiative had become an official framework for tracking outcomes and aligning interventions, including newer BUSD work such as the African American Success Program pilot and targeted literacy and math supports. It matters because Berkeley increasingly treated educational equity as a systemwide responsibility rather than a school-only issue.",
+      "category": "BUSD",
+      "topics": [
+        "Equity Framework",
+        "Achievement Gaps",
+        "Student Success"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "City of Berkeley 2020 Vision report",
+      "source_url": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+      "media": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+      "media_credit": "City of Berkeley. (2019). Update on Berkeley\u2019s 2020 Vision. https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+      "media_caption": "Official city update on Berkeley\u2019s 2020 Vision and its education-equity milestones.",
+      "sources": [
+        {
+          "citation": "City of Berkeley. (2019). Update on Berkeley\u2019s 2020 Vision. https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf",
+          "url": "https://berkeleyca.gov/sites/default/files/documents/2019-10-22%20WS%20Item%2001%20Update%20on%20Berkeley%E2%80%99s%202020%20Vision.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2024-busd-reparations-task-force",
+      "year": 2024,
+      "start_date": "2024/6/6",
+      "end_date": "2024/8/14",
+      "title": "BUSD Reparations Recommendations Center Historical Harm and Educational Repair",
+      "headline": "BUSD Reparations Recommendations Center Historical Harm and Educational Repair",
+      "description": "On June 6, 2024, Berkeley Unified\u2019s Reparations Task Force released its final recommendations after more than a year of meetings and community input. Key proposals included a district harm report, curriculum on slavery and its local legacies, and educational payments for eligible students. This matters because Berkeley\u2019s current equity work increasingly ties present disparities to documented historical harm rather than treating them as isolated contemporary outcomes.",
+      "text": "On June 6, 2024, Berkeley Unified\u2019s Reparations Task Force released its final recommendations after more than a year of meetings and community input. Key proposals included a district harm report, curriculum on slavery and its local legacies, and educational payments for eligible students. This matters because Berkeley\u2019s current equity work increasingly ties present disparities to documented historical harm rather than treating them as isolated contemporary outcomes.",
+      "category": "BUSD",
+      "topics": [
+        "Reparations",
+        "Historical Harm",
+        "Curriculum"
+      ],
+      "image_url": null,
+      "image_caption": "",
+      "image_source": "",
+      "source_citation": "Alameda County summary of the BUSD reparations presentation",
+      "source_url": "http://www.acgov.org/board/bos_calendar/documents/DocsAgendaReg_8_14_24/GENERAL%20ADMINISTRATION/Regular%20Calendar/Berkeley_USD_reprations_ppt.pdf",
+      "media": "http://www.acgov.org/board/bos_calendar/documents/DocsAgendaReg_8_14_24/GENERAL%20ADMINISTRATION/Regular%20Calendar/Berkeley_USD_reprations_ppt.pdf",
+      "media_credit": "Alameda County. (2024). Berkeley Unified School District reparations presentation. http://www.acgov.org/board/bos_calendar/documents/DocsAgendaReg_8_14_24/GENERAL%20ADMINISTRATION/Regular%20Calendar/Berkeley_USD_reprations_ppt.pdf",
+      "media_caption": "Presentation summarizing the BUSD Reparations Task Force process and recommendations.",
+      "sources": [
+        {
+          "citation": "Alameda County. (2024). Berkeley Unified School District reparations presentation. http://www.acgov.org/board/bos_calendar/documents/DocsAgendaReg_8_14_24/GENERAL%20ADMINISTRATION/Regular%20Calendar/Berkeley_USD_reprations_ppt.pdf",
+          "url": "http://www.acgov.org/board/bos_calendar/documents/DocsAgendaReg_8_14_24/GENERAL%20ADMINISTRATION/Regular%20Calendar/Berkeley_USD_reprations_ppt.pdf"
+        }
+      ]
+    }
+  ]
+}
